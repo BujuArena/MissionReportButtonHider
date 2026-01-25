@@ -1,0 +1,1 @@
+hooksecurefunc(ExpansionLandingPageMinimapButton, "Show", function(self, ...) self:Hide() end)

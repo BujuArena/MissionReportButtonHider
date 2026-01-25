@@ -1,0 +1,8 @@
+## Interface: 11507, 11508, 20505, 30404, 30405, 40402, 50500, 50501, 50502, 50503, 110107, 110200, 110205, 110207, 120000, 120001
+## Title: MissionReportButtonHider
+## Notes: Hides the mission report minimap button
+## Author: BujuArena
+## Dependencies: Blizzard_Minimap
+## LoadWith: Blizzard_Minimap
+
+MissionReportButtonHider.lua
